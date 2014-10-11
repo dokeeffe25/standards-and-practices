@@ -107,7 +107,7 @@ Format:
 | Danielle Cerisier | [dpekkle](https://github.com/dpekkle) | Learning Python |
 | Dario | [asphxia](https://github.com/asphxia) | Learning Python and Ruby. Experienced with PHP and web related technologies. |
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
-| David O'Keeffe|(https://github.com/dokeeffe25) | CS student. Looking to learn how to do bigger projects. I Know C++ and Java.
+| David O'Keeffe|[dokeeffe25](https://github.com/dokeeffe25) | CS student. Looking to learn how to do bigger projects. I Know C++ and Java.
 | Demetri Evans | [iKyriaki](https://github.com/iKyriaki) | Majoring in game development, finishing up my Freshman year and my first year of Python. Currently trying to learn C++ at the same time to prepare myself for the next few years. |
 | Dharak Kharod | [dharakk](https://github.com/dharakk) | I am a computer Science Student. Know C/C++ and JAVA. Looking forward to learning python. A real Beginner. Hoping to progress. |
 | Drew M | [yet-another](https://github.com/yet-another) ||

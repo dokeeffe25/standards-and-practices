@@ -31,8 +31,8 @@
 | Java | [Tim Kretschmer](https://github.com/XBigTK13X) | [Aigilas](https://github.com/XBigTK13X/Aigilas) | A fast-paced 2D dungeon crawl with a focus on combo attacks |
 | Python | [raylu](https://github.com/raylu) | [lpmc-site](https://github.com/LearnProgramming/lpmc-site) | A web site to support mentoring within the LPMC community |
 
-As well as many others not listed here. The most current list can generally be 
-found by looking at the repos in the LearnProgramming Organization's list of 
+As well as many others not listed here. The most current list can generally be
+found by looking at the repos in the LearnProgramming Organization's list of
 repositories, and checking on IRC
 
 ## Student Roster
@@ -47,7 +47,7 @@ Format:
 | Aaron Killen | [akillen](https://github.com/akillen) | C#, VB.net enterprise experience. PHP in a past life. Currently learning Ruby and game dev. |
 | Aaron Wilson | [Jazztoken](https://github.com/jazztoken) | Looking to climb past the basics of programming. Learning Python and web development. |
 | Abhinav Desor | [adesor](https://github.com/adesor) | I know Java, C and Python. Looking forward to contributing to open source projects. |
-| Adam Jasiura | [BigBlue79](https://github.com/BigBLue79) | Got a handful of Ruby/Rails and vanilla JS hours under my belt.  Using this to flex out of my comfort zone and daily code duties a a data aggregator. |    
+| Adam Jasiura | [BigBlue79](https://github.com/BigBLue79) | Got a handful of Ruby/Rails and vanilla JS hours under my belt.  Using this to flex out of my comfort zone and daily code duties a a data aggregator. |
 | Adam W. Goh | [adamwgoh](https://github.com/adamwgoh) | understands the fundamental of C/C++ and Java, getting used to Python and loves some programming time under my belt.|
 | Adam Novitch | [adamnovitch](https://github.com/adamnovitch) | Intermediate level C/C++, Qt, Java.  Beginner with Python, HTML/CSS, SQL. |
 | Abdul-Raheem Tawheed| [tawrahim](https://github.com/tawrahim) | I teach kids how to program in python and am also learning ruby at the same time |
@@ -84,7 +84,7 @@ Format:
 | Brandon Luth | [brandonl](https://github.com/brandonl) ||
 | Brandon	Roberts | [dino217](https://github.com/dino217) | New to programming. Starting off learning Ruby. |
 | Brandon Sachtleben | [bsachtle](https://github.com/bsachtle) | Self-taught. JavaScript enthusiast. Some knowledge of C, C++, Java, and 3D development. Looking to contribute and learn much more. |
-| Breathing Salty | [breathingsalty](https://github.com/breathignsalty) | Self taught, C++, PHP, Javascript, Python, 
+| Breathing Salty | [breathingsalty](https://github.com/breathignsalty) | Self taught, C++, PHP, Javascript, Python,
 | Brennan Plummer | [plumwick](https://github.com/plumwick) ||
 | Brian Dant | [briandant](https://github.com/briandant) | Beginnermediate Python progammer looking for mentors and learning to contribute to FOSS |
 | Brian Jerardi | [BrianJerardi](https://github.com/BrianJerardi) | I have a few years experience with programming as a hobby and freelance, but am looking to become more comfortable working on open source projects and in a team in general. ||
@@ -107,6 +107,7 @@ Format:
 | Danielle Cerisier | [dpekkle](https://github.com/dpekkle) | Learning Python |
 | Dario | [asphxia](https://github.com/asphxia) | Learning Python and Ruby. Experienced with PHP and web related technologies. |
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
+| David O'Keeffe|(https://github.com/dokeeffe25) | CS student. Looking to learn how to do bigger projects. I Know C++ and Java.
 | Demetri Evans | [iKyriaki](https://github.com/iKyriaki) | Majoring in game development, finishing up my Freshman year and my first year of Python. Currently trying to learn C++ at the same time to prepare myself for the next few years. |
 | Dharak Kharod | [dharakk](https://github.com/dharakk) | I am a computer Science Student. Know C/C++ and JAVA. Looking forward to learning python. A real Beginner. Hoping to progress. |
 | Drew M | [yet-another](https://github.com/yet-another) ||
@@ -129,7 +130,7 @@ Format:
 | Hans Saleh | [hsaleh](https://github.com/hsaleh) ||
 | Harsh | [hsinha](https://github.com/hsinha) ||
 | Holly Styles | [hollystyles](https://github.com/hollystyles) | 12 years experience LOB apps using Microsoft stack. Interested in everything programming. |
-| Howlden Coalfield | [howlden](https://github.com/howlden) | Law school dropout learning Python with 6.00x (edx.org), also want to learn C (low-level fascinates me, interface with hardware, etc.), and trying my hand at CSS/HTML and PHP on a Wordpress blog. Looking to kickstart a career in CS, need mentors and a plan. | 
+| Howlden Coalfield | [howlden](https://github.com/howlden) | Law school dropout learning Python with 6.00x (edx.org), also want to learn C (low-level fascinates me, interface with hardware, etc.), and trying my hand at CSS/HTML and PHP on a Wordpress blog. Looking to kickstart a career in CS, need mentors and a plan. |
 | Hunter Morrell | [Rapturehawk](https://github.com/Rapturehawk) | Computer science student, currently know just Java. Looking to get a bit of experience in working on projects, both in Java and possibly in other languages. |
 | Ian | [boomzilla](https://github.com/boomzilla) ||
 | Ian Fairclough | [boole10](https://github.com/boole10)||
@@ -169,7 +170,7 @@ Format:
 | Karthika Pai | [karthikapai](https://github.com/karthikapai) | C, C++, Python. learning Ruby, Ruby on Rails, HTML and CSS|
 | Kathryn Newbould | [KathrynN](https://github.com/KathrynN) | Learning Java. |
 | Kathy Xiong | [xiaokexi](https://github.com/xiaokexi) | A beginner in Python and programming in general. Hoping to become a professional developer eventually. Interested in honing my skills and getting to know the open-source community.|
-| Kelvin Lee | [neuromanxr](https://github.com/neuromanxr) | I worked in finance and accounting. I left to go back to college for computer science. Knowledge in C++, Python, just started learning Obj-C and iOS development. | 
+| Kelvin Lee | [neuromanxr](https://github.com/neuromanxr) | I worked in finance and accounting. I left to go back to college for computer science. Knowledge in C++, Python, just started learning Obj-C and iOS development. |
 | Kenny Jeffery | [KLJ3](https://github.com/klj3) | html, css, basic jQuery |
 | Kenny Yang | [kyang321](https://github.com/kyang321) ||
 | Keval Shah | [kevalshah](https://github.com/kevalshah) | 3rd Year Software Engineering Student with experience in Java, C, C++, and some Python. |
@@ -225,7 +226,7 @@ Format:
 | Peter Baumgarten | [baumgarp](https://github.com/baumgarp) | Computer Science student with experience in Java, Python, MIPS assembly, Lisp, and is experienced with Linux and the command line.  Looking forward to contributing to FOSS projects. |
 | Peter Molnar | [petermolnar-hu](https://github.com/petermolnar-hu) | I want to reuse and reshape my previous developer experience from years ago (dBase, Clipper, FoxPRO and Delphi). I am interested in Java, Objective-C, PHP, and C projects. Goal to be a software engineer. |
 | Philip Smith | [rstack](https://github.com/rstack) | Some Perl and Ruby development experience.  Looking to better my skills and aid the OpenSource community while building my portfolio simultaneously. |
-| Piyush Khemka | [piy9] (https://github.com/piy9) | Computer Science student. Want to get started with Open Source. 
+| Piyush Khemka | [piy9] (https://github.com/piy9) | Computer Science student. Want to get started with Open Source.
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
 | Ramasamy G | [ramasamyz](https://github.com/ramasamyz) | Experience of 2 years in java and related technologies. Interested in doing Ruby, OpenSource and artifical Intelligence activities. I have time and mind to spare, looking forward to collaborate and programme more. |
 | Randy Le | [WickedWallaby](https://github.com/WickedWallaby) |  |
@@ -240,7 +241,7 @@ Format:
 | Saket Jain | [tekas1234](https://github.com/tekas1234) || I am a software engineer and can work in C, C++ and PHP |
 | Sal van Wezel | [salvanwezel](https://github.com/salvanwezel) | I know the basics of C, Objective C and Ruby. I want to learn how to contribute. |
 | Sarthak Agrawal | [sarthakagrawal](https://github.com/sarthakagrawal) | I'm learning Python, and I'm excited to get involved with open source. |
-| Sayam Masood | [sayammasood](https://github.com/sayammasood) | I've tried lots of programming languages. I enjoy Ruby and Python and would like to put my skills to use in open-source projects. | 
+| Sayam Masood | [sayammasood](https://github.com/sayammasood) | I've tried lots of programming languages. I enjoy Ruby and Python and would like to put my skills to use in open-source projects. |
 | Sam Hotop | [shotop](https://github.com/shotop)| Working as a test automation engineering consultant currently.  Looking to get better at dev in general |
 | Scott Dubinsky | [sdubinsky](https://github.com/sdubinsky) ||
 | Scott Kaye | [JaxoDI](https://github.com/JaxoDI) ||
@@ -268,7 +269,7 @@ Format:
 | Thom Green | [bloodythorn](https:://github.com/bloodythorn) | C++, SFML, Game Development ||
 | Tim Downey | [tcdowney](https://github.com/tcdowney) ||
 | Tim Fulton | [tmfulton](https://github.com/tmfulton) || I know Java, some python and objective-C, I'm hoping to learn alot more about programming
-| Tommy Garland | [tommygarland](https://github.com/tommygarland || 
+| Tommy Garland | [tommygarland](https://github.com/tommygarland ||
 | Tommy Pedersen | [bodhiBit](https://github.com/bodhiBit) | I have about a lifetime of experience in various programming languages, but none in Git.. |
 | Tomoyuki Katsube | [ka2be](https://github.com/ka2be) |EXPERIENCE:learning Scheme and Python a few years as an amateur.GOALS:enjoy teamwork,write more practical code and readable document(+individually English-Japanese translating).And I like Snufkin.|
 | Trent Robbins | [robbintt](https://github.com/robbintt) ||
